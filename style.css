@@ -1,0 +1,373 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f9f9f9;
+}
+
+.desktop {
+  width: 1280px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.desktop header .svg-menu svg {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 7px 5px 7px 5px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.desktop header .english p {
+  width: 53px;
+  height: 18px;
+  position: absolute;
+  top: 50px;
+  left: 1183px;
+  gap: 0px;
+  opacity: 0px;
+  content: "English";
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.4px;
+  text-align: left;
+  color: #777;
+}
+
+.desktop header .english svg {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 35px;
+  left: 1230px;
+  padding: 0px 8px 0px 8px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.desktop .first-page img {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 63px;
+  left: 608px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.desktop .first-page h1 {
+  width: 153px;
+  height: 50px;
+  position: absolute;
+  top: 137px;
+  left: 563px;
+  gap: 0px;
+  opacity: 0px;
+  content: "DuckTik";
+  font-family: Roboto Slab;
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 50.12px;
+  text-align: left;
+  color: #000;
+}
+
+.desktop .first-page p {
+  width: 490px;
+  height: 23px;
+  position: absolute;
+  top: 200px;
+  left: 395px;
+  gap: 0px;
+  opacity: 0px;
+  content: "A ducky that download TikTok video without watermark.";
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+  color: #777;
+}
+
+.desktop .first-page input {
+  width: 640px;
+  height: 45px;
+  position: absolute;
+  top: 245px;
+  left: 320px;
+  gap: 0px;
+  border-radius: 0px 4px 4px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border-width: 0px, 0px, 0px, 0px;
+
+  border-style: solid;
+
+  border-color: #f0b500;
+}
+
+.desktop .first-page input::placeholder {
+  width: 328px;
+  height: 24px;
+  padding: 10px;
+  top: 258px;
+  left: 332px;
+  gap: 0px;
+  opacity: 0px;
+  content: "Paste TikTok video link here";
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 19.55px;
+  text-align: left;
+  color: #aaa;
+}
+
+.desktop .first-page .d {
+  width: 125px;
+  height: 45px;
+  position: absolute;
+  top: 245px;
+  left: 835px;
+  gap: 0px;
+  border-radius: 0px 4px 4px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #f2c94c47;
+  border: 1px solid #f0b500;
+  box-shadow: 0px 2px 4px 0px #0000000f;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.desktop .first-page .svg {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  top: 259px;
+  left: 930px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.desktop .second-page img {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  top: 312px;
+  left: 550px;
+  padding: 2.25px 0px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.desktop .second-page p {
+  width: 132px;
+  height: 18px;
+  position: absolute;
+  top: 311px;
+  left: 575px;
+  gap: 0px;
+  opacity: 0px;
+  content: "How to download?";
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.4px;
+  text-align: left;
+  color: #777;
+}
+
+.desktop .second-page svg {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 311px;
+  left: 706px;
+  padding: 0px 8px 0px 8px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.desktop .third-page .box {
+  width: 960px;
+  height: 150px;
+  position: absolute;
+  top: 356px;
+  left: 160px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: #fcfcfc;
+  border: 1px solid #e7e7e7;
+}
+
+.desktop .third-page .box span {
+  width: 26px;
+  height: 20px;
+  position: absolute;
+  top: 60px;
+  left: 480px;
+  gap: 0px;
+  opacity: 0px;
+  content: "Ads";
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #999999;
+}
+
+.four-page .text {
+  width: 500px;
+  height: 40px;
+  position: absolute;
+  top: 565px;
+  left: 390px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  padding: 10px;
+  background-color: #f2c94c40;
+}
+
+.four-page .text h1 {
+  width: 475px;
+  height: 20px;
+  top: 575px;
+  left: 401px;
+  gap: 0px;
+  opacity: 0px;
+  content: "How to start Tik Tok video download with our service?";
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #000000;
+}
+
+.four-page h3 {
+  width: 803px;
+  height: 20px;
+  position: absolute;
+  top: 630px;
+  gap: 0px;
+  opacity: 0px;
+  content: "To save TikTok video using SaveFrom.net, you need to follow three short steps. Have a look at them:";
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #555555;
+}
+
+.four-page .card .imgs .img {
+  width: 230px;
+  height: 184px;
+  top: 667px;
+  left: 160px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.four-page .card .imgs .img2 {
+  width: 230px;
+  height: 184px;
+  top: 667px;
+  left: 525px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.four-page .card .imgs .img3 {
+  width: 230px;
+  height: 185px;
+  top: 667px;
+  left: 890px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.four-page .first-text .h1 {
+  width: 134px;
+  height: 20px;
+  position: absolute;
+  top: 872px;
+  left: 160px;
+  gap: 0px;
+  opacity: 0px;
+  content: "1. Copy the URL";
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #000;
+}
+
+.four-page .first-text .h11 {
+  width: 230px;
+  height: 40px;
+  position: absolute;
+  top: 872px;
+  left: 525px;
+  gap: 0px;
+  opacity: 0px;
+  content: "2. Paste the URL onto the input field";
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #000;
+}
+
+.four-page .first-text .h12 {
+  width: 227px;
+  height: 20px;
+  position: absolute;
+  top: 872px;
+  left: 891px;
+  gap: 0px;
+  opacity: 0px;
+  content: "3. Click the download button";
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #000;
+}
+
+.four-page .first-text .p1 {
+  width: 230px;
+  height: 120px;
+  margin-top: 912px;
+  margin-left: 160px;
+  gap: 0px;
+  opacity: 0px;
+  content: "Open the Tik Tok page with a video that you want to save, copy its URL and go back to SaveFrom.net.";
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #555555;
+}
+
+.four-page .first-text .p2 {
+
+
+}
